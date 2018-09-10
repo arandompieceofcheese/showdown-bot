@@ -5,3 +5,5 @@ This is a Pokemon Showdown bot that I programmed in about 3 hours.  It was suppo
 It's also Monday 9/10 right now BTW
 
 This is totally unfinished.  I just don't feel like finishing it.
+
+I also don't know how to release java things
